@@ -6,7 +6,7 @@
 <meta charset="EUC-KR">
 <title>Insert title here</title>
 <style>
-#header{ /* 주문 리스트  헤더 부분 */
+#header{ /* 주문 리스트  헤더 부분  */
     position: fixed;
     width: 100%;
     margin: 0 auto;
